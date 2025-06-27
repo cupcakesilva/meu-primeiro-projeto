@@ -1,1 +1,0 @@
-Hello guys, this project have been created to save my learned abou Git and GitHub!
